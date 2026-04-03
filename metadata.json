@@ -1,0 +1,5 @@
+{
+  "name": "Student Performance Prediction using Markov Process",
+  "description": "A professional academic analytics dashboard that predicts student performance evolution using stochastic Markov models.",
+  "requestFramePermissions": []
+}
